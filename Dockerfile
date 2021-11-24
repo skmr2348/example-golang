@@ -1,3 +1,3 @@
 FROM golang:latest
-LABEL NAME="glue_dev"
+LABEL NAME="go_dev"
 RUN mkdir /go/src/work
